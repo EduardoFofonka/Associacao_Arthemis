@@ -549,7 +549,7 @@ button:hover {
 
 /* RESPONSIVIDADE */
 
-@media only screen and (max-width: 1070px) {
+@media only screen and (max-width: 800px) {
     .conteudo-qs {
         display: flex;
         flex-direction: column;
@@ -592,7 +592,7 @@ button:hover {
     .logo-midia > a > img{ width: 40%;}
 }
 
-@media only screen and (max-width: 1155px) {
+@media only screen and (max-width: 800px) {
     .section-main {
         display: flex;
         flex-direction: column;
